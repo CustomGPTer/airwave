@@ -49,10 +49,6 @@ Stations come from [Radio Browser](https://www.radio-browser.info/), a free dire
 Podcast search and the UK chart use Apple's public podcast directory. Airwave is not connected with any
 station, broadcaster or directory; station names and logos belong to their owners.
 
-## Building
-
-The app is in the `android` folder. See `android/README.md`.
-
 ## Licence
 
-© 2026 Jonathan Jackson. Published under the GNU General Public License, version 3 (see `LICENSE`).
+© 2026 Jonathan Jackson. All rights reserved. The app's source code is not published; this repository holds the website and the app releases.
